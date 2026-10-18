@@ -88,8 +88,8 @@ If your printer doesn't appear in the list, install your printer brand's print a
 
 ## Setting up your booth
 
-### Step 1: Create a staff password
-The first time you open CHELFIE, it asks you to create a staff password. This keeps guests out of the settings, so only you can change how the booth works.
+### Step 1: Take the tour and create a staff password
+The first time you open CHELFIE, a short tutorial walks you through how the booth works. Then it asks you to create a staff password. This keeps guests out of the settings, so only you can change how the booth works. You can replay the tutorial any time from the settings.
 
 ### Step 2: Choose your camera
 You have two options:
@@ -120,6 +120,7 @@ There you can:
 - **Set the reset timer:** how long the booth waits before returning to the welcome screen (15 to 120 seconds).
 - **Edit your event name**, and turn the date on or off.
 - **Turn the mirrored preview on or off** for the Sony camera.
+- **Replay the tutorial** to see how CHELFIE works.
 - **Change your staff password.**
 - **Run a test print.**
 - **See the camera log** if the camera isn't connecting.
